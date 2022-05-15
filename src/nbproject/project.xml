@@ -6,7 +6,7 @@
             <name>Blinking-LED</name>
             <creation-uuid>50e752d2-eea2-4149-a3be-1af1ff348b75</creation-uuid>
             <make-project-type>0</make-project-type>
-            <c-extensions/>
+            <c-extensions>c</c-extensions>
             <cpp-extensions/>
             <header-extensions/>
             <asminc-extensions/>
